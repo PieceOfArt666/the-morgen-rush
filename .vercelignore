@@ -1,0 +1,25 @@
+.git
+.next
+node_modules
+scratch/
+New folder/
+*.py
+*.html
+*.jsonl
+*.log
+*.tsbuildinfo
+chatgpt_data.json
+hero_mascot_ring.png
+left_bg.png
+mascot_crop.png
+right_bg.png
+snake_ring.png
+public/test_*
+public/strip_*
+public/*raw*
+public/*check*
+public/*pristine*
+public/*feathered*
+public/*crop*
+public/*slice*
+public/*clean*
